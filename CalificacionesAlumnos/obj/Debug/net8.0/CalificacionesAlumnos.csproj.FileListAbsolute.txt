@@ -1,0 +1,14 @@
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\bin\Debug\net8.0\CalificacionesAlumnos.exe
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\bin\Debug\net8.0\CalificacionesAlumnos.deps.json
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\bin\Debug\net8.0\CalificacionesAlumnos.runtimeconfig.json
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\bin\Debug\net8.0\CalificacionesAlumnos.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\bin\Debug\net8.0\CalificacionesAlumnos.pdb
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\obj\Debug\net8.0\CalificacionesAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\obj\Debug\net8.0\CalificacionesAlumnos.AssemblyInfoInputs.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\obj\Debug\net8.0\CalificacionesAlumnos.AssemblyInfo.cs
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\obj\Debug\net8.0\CalificacionesAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\obj\Debug\net8.0\CalificacionesAlumnos.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\obj\Debug\net8.0\refint\CalificacionesAlumnos.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\obj\Debug\net8.0\CalificacionesAlumnos.pdb
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\obj\Debug\net8.0\CalificacionesAlumnos.genruntimeconfig.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\CalificacionesAlumnos\obj\Debug\net8.0\ref\CalificacionesAlumnos.dll

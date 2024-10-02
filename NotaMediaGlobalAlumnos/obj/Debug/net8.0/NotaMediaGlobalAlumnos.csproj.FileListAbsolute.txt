@@ -1,0 +1,14 @@
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\bin\Debug\net8.0\NotaMediaGlobalAlumnos.exe
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\bin\Debug\net8.0\NotaMediaGlobalAlumnos.deps.json
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\bin\Debug\net8.0\NotaMediaGlobalAlumnos.runtimeconfig.json
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\bin\Debug\net8.0\NotaMediaGlobalAlumnos.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\bin\Debug\net8.0\NotaMediaGlobalAlumnos.pdb
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\obj\Debug\net8.0\NotaMediaGlobalAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\obj\Debug\net8.0\NotaMediaGlobalAlumnos.AssemblyInfoInputs.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\obj\Debug\net8.0\NotaMediaGlobalAlumnos.AssemblyInfo.cs
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\obj\Debug\net8.0\NotaMediaGlobalAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\obj\Debug\net8.0\NotaMediaGlobalAlumnos.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\obj\Debug\net8.0\refint\NotaMediaGlobalAlumnos.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\obj\Debug\net8.0\NotaMediaGlobalAlumnos.pdb
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\obj\Debug\net8.0\NotaMediaGlobalAlumnos.genruntimeconfig.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\NotaMediaGlobalAlumnos\obj\Debug\net8.0\ref\NotaMediaGlobalAlumnos.dll

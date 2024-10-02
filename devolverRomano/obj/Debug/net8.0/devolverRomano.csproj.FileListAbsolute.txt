@@ -1,0 +1,14 @@
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\bin\Debug\net8.0\devolverRomano.exe
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\bin\Debug\net8.0\devolverRomano.deps.json
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\bin\Debug\net8.0\devolverRomano.runtimeconfig.json
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\bin\Debug\net8.0\devolverRomano.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\bin\Debug\net8.0\devolverRomano.pdb
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\obj\Debug\net8.0\devolverRomano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\obj\Debug\net8.0\devolverRomano.AssemblyInfoInputs.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\obj\Debug\net8.0\devolverRomano.AssemblyInfo.cs
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\obj\Debug\net8.0\devolverRomano.csproj.CoreCompileInputs.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\obj\Debug\net8.0\devolverRomano.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\obj\Debug\net8.0\refint\devolverRomano.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\obj\Debug\net8.0\devolverRomano.pdb
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\obj\Debug\net8.0\devolverRomano.genruntimeconfig.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\devolverRomano\obj\Debug\net8.0\ref\devolverRomano.dll

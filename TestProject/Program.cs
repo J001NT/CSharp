@@ -25,8 +25,14 @@ switch (operador)
     break;
 
         case '/':
+        if (valor2 != 0){
     resultado = valor1 / valor2;
     Console.WriteLine($"{valor1}/{valor2} = {resultado}");
+        }
+        else
+        {
+            Console.WriteLine("No se permite dividir por 0 ");
+        }
     break;
 
     default:

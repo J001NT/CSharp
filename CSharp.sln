@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotaMediaGlobalAlumnos", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{5DBA7A02-3324-4D0E-93C9-1BDD8C9C3FB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaClase3", "TareaClase3\TareaClase3.csproj", "{0A974EA3-E9D5-4AD7-9A2C-3CD398A10CE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{5DBA7A02-3324-4D0E-93C9-1BDD8C9C3FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DBA7A02-3324-4D0E-93C9-1BDD8C9C3FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DBA7A02-3324-4D0E-93C9-1BDD8C9C3FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A974EA3-E9D5-4AD7-9A2C-3CD398A10CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A974EA3-E9D5-4AD7-9A2C-3CD398A10CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A974EA3-E9D5-4AD7-9A2C-3CD398A10CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A974EA3-E9D5-4AD7-9A2C-3CD398A10CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

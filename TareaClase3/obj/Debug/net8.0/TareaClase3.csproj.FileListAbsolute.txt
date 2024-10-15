@@ -1,0 +1,15 @@
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\bin\Debug\net8.0\TareaClase3.exe
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\bin\Debug\net8.0\TareaClase3.deps.json
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\bin\Debug\net8.0\TareaClase3.runtimeconfig.json
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\bin\Debug\net8.0\TareaClase3.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\bin\Debug\net8.0\TareaClase3.pdb
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\TareaClase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\TareaClase3.AssemblyInfoInputs.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\TareaClase3.AssemblyInfo.cs
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\TareaClase3.csproj.CoreCompileInputs.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\TareaClase3.sourcelink.json
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\TareaClase3.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\refint\TareaClase3.dll
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\TareaClase3.pdb
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\TareaClase3.genruntimeconfig.cache
+C:\Users\Josefina\Documents\Gonzalo\Talentos Digitales\CSharp\TareaClase3\obj\Debug\net8.0\ref\TareaClase3.dll

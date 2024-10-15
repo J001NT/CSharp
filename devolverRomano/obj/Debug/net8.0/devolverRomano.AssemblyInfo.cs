@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("devolverRomano")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1664b4a2c4db838e0f83a5af0322ba611cc5cc16")]
 [assembly: System.Reflection.AssemblyProductAttribute("devolverRomano")]
 [assembly: System.Reflection.AssemblyTitleAttribute("devolverRomano")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
